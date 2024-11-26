@@ -1,0 +1,19 @@
+=== Started 2024-11-27T02-40-10-174 ===
+[INFO ][02:40:10] [1m[32mMultiOgar 1.2.69.6[37m - An open source multi-protocol ogar server[0m
+[ERROR][02:40:10] Unknown gameserver.ini value: ultraRestartMassLimit
+[ERROR][02:40:10] Unknown gameserver.ini value: ultraRestartCounterDuration
+[WARN ][02:40:10] ./ipbanlist.txt is missing.
+[WARN ][02:40:10] User account "Local Moderator" disabled
+[WARN ][02:40:10] User account "Local User" disabled
+[INFO ][02:40:10] 1 user records loaded.
+[INFO ][02:40:10] 3002 bad words loaded
+[WARN ][02:40:10] TLS: not supported (SSL certificate not found!)
+[INFO ][02:40:10] WebSocket: ws
+[INFO ][02:40:10] Started stats server on port 8888
+[INFO ][02:40:10] Listening on port 1111
+[INFO ][02:40:10] Current game mode is FFA
+[NONE ][02:40:12] DISCONNECTED 127.0.0.1:62950, code: 1001, reason: "", name: ""
+[NONE ][02:40:18] >lest
+[WARN ][02:40:18] Invalid Command!
+[NONE ][02:40:19] >list
+[WARN ][02:40:19] Invalid Command!
